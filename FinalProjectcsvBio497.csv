@@ -1,0 +1,10 @@
+﻿Organism,Treatment,Trial,Rate
+Crayfish,Control,1,-0.05725
+Crayfish,1,1,-0.08006
+Crayfish,2,1,-0.08792
+Crayfish,Control,2,-0.05697
+Crayfish,1,2,-0.09604
+Crayfish,2,2,-0.11045
+Crayfish,Control,3,-0.09827
+Crayfish,1,3,-0.08088
+Crayfish,2,3,-0.10434
